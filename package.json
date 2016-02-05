@@ -1,19 +1,22 @@
 {
-  "name": "OpenShift-Sample-App",
+  "name": "Bytecode-app",
   "version": "1.0.0",
-  "description": "OpenShift Sample Application",
+  "description": "Institutional site from Bytecode Corporation",
   "keywords": [
-    "OpenShift",
+    "Bytecode",
     "Node.js",
     "application",
-    "openshift"
+    "openshift",
+    "jucelinux",
+    "Illuminati",
+    "Cloud9"
   ],
   "author": {
-    "name": "OpenShift",
-    "email": "ramr@example.org",
-    "url": "http://www.openshift.com/"
+    "name": "Jucelinux",
+    "email": "jucelino.qjr@gmail.com",
+    "url": "http://www.jucelinux.com/"
   },
-  "homepage": "http://www.openshift.com/",
+  "homepage": "http://bytecode-jucelinux.rhcloud.com/",
   "repository": {
     "type": "git",
     "url": "https://github.com/openshift/origin-server"
@@ -25,7 +28,7 @@
   },
 
   "dependencies": {
-    "express": "~3.4.4"
+    "express": ">=3.4.4"
   },
   "devDependencies": {},
   "bundleDependencies": [],
