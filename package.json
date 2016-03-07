@@ -21,18 +21,20 @@
     "type": "git",
     "url": "https://github.com/openshift/origin-server"
   },
-
   "engines": {
     "node": ">= 0.6.0",
     "npm": ">= 1.0.0"
   },
-
   "dependencies": {
-    "express": ">=3.4.4"
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": ">=3.4.4",
+    "express-load": "^1.1.15",
+    "firebase": "^2.4.1",
+    "method-override": "^2.3.5"
   },
   "devDependencies": {},
   "bundleDependencies": [],
-
   "private": true,
   "main": "server.js"
 }
