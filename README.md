@@ -85,7 +85,6 @@ http://bytecode-jucelinux.rhcloud.com/calculaMenorCaminho
 
  - Testes unitários
  - Implementação das chamadas GET
- - Acrescentar comentários no código
  - Dormir mais =/
 
 
